@@ -15,6 +15,8 @@
         <h3>💡 Love working with modern web technologies</h3>
         <h3>⚡ I code to learn</h3>
     </div>
+    <div align="center">
+        ![snake gif](https://github.com/Brean07/Brean07/blob/output/github-snake-dark.svg)
+    </div>
 </body>
 </html>
-![snake gif](https://github.com/Brean07/Brean07/blob/output/github-snake-dark.svg)
