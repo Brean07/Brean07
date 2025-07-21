@@ -10,7 +10,6 @@
         <h3>⚡ I code to learn</h3>
     </div>
 <!-- Snake -->
-<div align="center">
-   
-</div>
- ![snake gif](https://github.com/Brean07/Brean07/blob/output/github-snake-dark.svg)
+<picture>
+<img alt="github-snake" src="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
+</picture>
