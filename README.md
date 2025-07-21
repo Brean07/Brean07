@@ -1,3 +1,4 @@
+![Banner](assets/ArcadiaMovement.png)
 <!-- Stats -->
 <div align="center">
         <h1>Hi there 👋</h1>
